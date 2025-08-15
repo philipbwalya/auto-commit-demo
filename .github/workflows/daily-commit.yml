@@ -3,26 +3,31 @@ on:
   schedule:
     - cron: "09 11 * * *" # 8 PM UTC (midnight +04, your timezone)
   workflow_dispatch: # allows manual run
+
+permissions:
+  contents: write # Grants write access to repository contents
+
 jobs:
   auto-commit:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Set up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: "18"
+          node-version: "20"
       - name: Install dependencies
         run: npm install
       - name: Run script
         run: node index.js
       - name: Commit changes
-        env:
-          REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
           git commit -m "Daily automated commit: Update for $(date +'%Y-%m-%d')" || echo "No changes to commit"
-          git push https://x-access-token:${REPO_TOKEN}@github.com/${{ github.repository }} HEAD:main
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
