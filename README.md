@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "It always seems impossible until it's done." — Nelson Mandela  
+> "Success is not final, failure is not fatal: it is the courage to continue that counts." — Winston Churchill  
 *Updated on 2025-08-15*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
