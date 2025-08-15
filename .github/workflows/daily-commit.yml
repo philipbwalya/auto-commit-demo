@@ -1,4 +1,4 @@
-name: Daily Commit
+name: Update Daily Quote
 on:
   schedule:
     - cron: "09 11 * * *" # 8 PM UTC (midnight +04, your timezone)
