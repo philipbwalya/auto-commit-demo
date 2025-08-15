@@ -2,7 +2,7 @@ name: Daily Commit
 on:
   schedule:
     - cron: "40 10 * * *" # 8 PM UTC (midnight +04, your timezone)
-  workflow_dispatch:
+  workflow_dispatch: # allows manual run
 jobs:
   auto-commit:
     runs-on: ubuntu-latest
