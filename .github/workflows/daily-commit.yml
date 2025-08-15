@@ -1,7 +1,7 @@
 name: Daily Commit
 on:
   schedule:
-    - cron: "55 10 * * *" # 8 PM UTC (midnight +04, your timezone)
+    - cron: "09 11 * * *" # 8 PM UTC (midnight +04, your timezone)
   workflow_dispatch: # allows manual run
 jobs:
   auto-commit:
