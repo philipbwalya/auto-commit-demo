@@ -1,7 +1,7 @@
 name: Update Daily Quote
 on:
   schedule:
-    - cron: "30 12 * * *" # 13:25 in CAT which is +2 in UTC 11:25
+    - cron: "30 08 * * *" # 13:25 in CAT which is +2 in UTC 11:25
   workflow_dispatch: # allows manual run
 
 permissions:
@@ -27,7 +27,7 @@ jobs:
           git config --local user.email "philipbwalya@users.noreply.github.com"
           git config --local user.name "philipbwalya"
           git add .
-          git commit -m "Daily motivational quote update 🌟..: Update for $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git commit -m "Daily motivational quote update 🌟: Update for $(date +'%Y-%m-%d')" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
