@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "Success is not final, failure is not fatal: it is the courage to continue that counts." — Winston Churchill  
-*Updated on 2025-08-15*
+> "I attribute my success to this: I never gave or took any excuse." — Florence Nightingale  
+*Updated on 2025-08-16*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
