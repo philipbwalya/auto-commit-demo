@@ -27,7 +27,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
-          git commit -m "Daily motivational quote update 🌟: Update for $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git commit -m "Daily motivational quote update 🌟..: Update for $(date +'%Y-%m-%d')" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
