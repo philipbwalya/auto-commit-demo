@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The harder I work, the luckier I get." — Gary Player  
-*Updated on 2025-08-27*
+> "The purpose of our lives is to be happy." — Dalai Lama  
+*Updated on 2025-08-29*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
