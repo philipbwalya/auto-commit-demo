@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The purpose of our lives is to be happy." — Dalai Lama  
-*Updated on 2025-08-29*
+> "You must be the change you wish to see in the world." — Mahatma Gandhi  
+*Updated on 2025-08-30*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
