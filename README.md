@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "You must be the change you wish to see in the world." — Mahatma Gandhi  
-*Updated on 2025-09-01*
+> "It always seems impossible until it's done." — Nelson Mandela  
+*Updated on 2025-09-02*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
