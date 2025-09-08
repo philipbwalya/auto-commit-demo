@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The only way to achieve the impossible is to believe it is possible." — Charles Kingsleigh  
-*Updated on 2025-09-07*
+> "If you can dream it, you can do it." — Walt Disney  
+*Updated on 2025-09-08*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
