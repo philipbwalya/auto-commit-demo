@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The only way to achieve the impossible is to believe it is possible." — Charles Kingsleigh  
-*Updated on 2025-09-13*
+> "You must be the change you wish to see in the world." — Mahatma Gandhi  
+*Updated on 2025-09-14*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
