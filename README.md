@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The future belongs to those who believe in the beauty of their dreams." — Eleanor Roosevelt  
-*Updated on 2025-09-22*
+> "If you can dream it, you can do it." — Walt Disney  
+*Updated on 2025-09-23*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
