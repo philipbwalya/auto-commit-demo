@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "If you can dream it, you can do it." — Walt Disney  
-*Updated on 2025-09-23*
+> "What you do today can improve all your tomorrows." — Ralph Marston  
+*Updated on 2025-09-24*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
