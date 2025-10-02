@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The only place where success comes before work is in the dictionary." — Vidal Sassoon  
-*Updated on 2025-10-01*
+> "Get busy living or get busy dying." — Stephen King  
+*Updated on 2025-10-02*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
