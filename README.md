@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The secret of success is to do the common thing uncommonly well." — John D. Rockefeller Jr.  
-*Updated on 2025-10-03*
+> "What you do today can improve all your tomorrows." — Ralph Marston  
+*Updated on 2025-10-04*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
