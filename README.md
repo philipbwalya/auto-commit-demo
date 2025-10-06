@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The secret of success is to do the common thing uncommonly well." — John D. Rockefeller Jr.  
-*Updated on 2025-10-05*
+> "Life is 10% what happens to us and 90% how we react to it." — Charles R. Swindoll  
+*Updated on 2025-10-06*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
