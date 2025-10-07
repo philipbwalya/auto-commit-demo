@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "Life is 10% what happens to us and 90% how we react to it." — Charles R. Swindoll  
-*Updated on 2025-10-06*
+> "Your time is limited, so don't waste it living someone else's life." — Steve Jobs  
+*Updated on 2025-10-07*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
