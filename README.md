@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The best revenge is massive success." — Frank Sinatra  
-*Updated on 2025-10-09*
+> "The best way to predict the future is to invent it." — Alan Kay  
+*Updated on 2025-10-10*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
