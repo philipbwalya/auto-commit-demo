@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The purpose of our lives is to be happy." — Dalai Lama  
-*Updated on 2025-10-14*
+> "Get busy living or get busy dying." — Stephen King  
+*Updated on 2025-10-15*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
