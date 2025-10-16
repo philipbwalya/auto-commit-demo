@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "Get busy living or get busy dying." — Stephen King  
-*Updated on 2025-10-15*
+> "If you can dream it, you can do it." — Walt Disney  
+*Updated on 2025-10-16*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
