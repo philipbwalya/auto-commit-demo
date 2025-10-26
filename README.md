@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The secret of success is to do the common thing uncommonly well." — John D. Rockefeller Jr.  
-*Updated on 2025-10-25*
+> "You must be the change you wish to see in the world." — Mahatma Gandhi  
+*Updated on 2025-10-26*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
