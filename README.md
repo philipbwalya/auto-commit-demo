@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The only place where success comes before work is in the dictionary." — Vidal Sassoon  
-*Updated on 2025-11-01*
+> "The harder I work, the luckier I get." — Gary Player  
+*Updated on 2025-11-02*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
