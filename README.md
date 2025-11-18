@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The secret of success is to do the common thing uncommonly well." — John D. Rockefeller Jr.  
-*Updated on 2025-11-17*
+> "You have within you right now, everything you need to deal with whatever the world can throw at you." — Brian Tracy  
+*Updated on 2025-11-18*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
