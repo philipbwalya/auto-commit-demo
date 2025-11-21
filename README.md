@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "I attribute my success to this: I never gave or took any excuse." — Florence Nightingale  
-*Updated on 2025-11-20*
+> "Your time is limited, so don't waste it living someone else's life." — Steve Jobs  
+*Updated on 2025-11-21*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
