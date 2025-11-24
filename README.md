@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "Believe you can and you're halfway there." — Theodore Roosevelt  
-*Updated on 2025-11-23*
+> "The harder I work, the luckier I get." — Gary Player  
+*Updated on 2025-11-24*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
