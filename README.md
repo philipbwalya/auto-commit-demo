@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The harder I work, the luckier I get." — Gary Player  
-*Updated on 2025-11-27*
+> "Your time is limited, so don't waste it living someone else's life." — Steve Jobs  
+*Updated on 2025-11-28*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
