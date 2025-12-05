@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The harder I work, the luckier I get." — Gary Player  
-*Updated on 2025-12-04*
+> "What lies behind us and what lies before us are tiny matters compared to what lies within us." — Ralph Waldo Emerson  
+*Updated on 2025-12-05*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
