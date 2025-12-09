@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "If you can dream it, you can do it." — Walt Disney  
-*Updated on 2025-12-08*
+> "Success is not the key to happiness. Happiness is the key to success." — Albert Schweitzer  
+*Updated on 2025-12-09*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
