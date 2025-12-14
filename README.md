@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "Success is not final, failure is not fatal: it is the courage to continue that counts." — Winston Churchill  
-*Updated on 2025-12-13*
+> "You miss 100% of the shots you don’t take." — Wayne Gretzky  
+*Updated on 2025-12-14*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
