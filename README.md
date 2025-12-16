@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The best revenge is massive success." — Frank Sinatra  
-*Updated on 2025-12-15*
+> "The only way to achieve the impossible is to believe it is possible." — Charles Kingsleigh  
+*Updated on 2025-12-16*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
