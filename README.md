@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "Life is 10% what happens to us and 90% how we react to it." — Charles R. Swindoll  
-*Updated on 2025-12-17*
+> "The only limit to our realization of tomorrow is our doubts of today." — Franklin D. Roosevelt  
+*Updated on 2025-12-18*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
