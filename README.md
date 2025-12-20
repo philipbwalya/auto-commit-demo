@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "Keep your face always toward the sunshine—and shadows will fall behind you." — Walt Whitman  
-*Updated on 2025-12-19*
+> "The only way to do great work is to love what you do." — Steve Jobs  
+*Updated on 2025-12-20*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
