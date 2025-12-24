@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "What you do today can improve all your tomorrows." — Ralph Marston  
-*Updated on 2025-12-23*
+> "I attribute my success to this: I never gave or took any excuse." — Florence Nightingale  
+*Updated on 2025-12-24*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
