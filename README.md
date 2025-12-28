@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "I attribute my success to this: I never gave or took any excuse." — Florence Nightingale  
-*Updated on 2025-12-27*
+> "It always seems impossible until it's done." — Nelson Mandela  
+*Updated on 2025-12-28*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
