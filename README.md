@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "What you do today can improve all your tomorrows." — Ralph Marston  
-*Updated on 2026-01-25*
+> "The best revenge is massive success." — Frank Sinatra  
+*Updated on 2026-01-26*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
