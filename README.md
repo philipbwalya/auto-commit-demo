@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The purpose of our lives is to be happy." — Dalai Lama  
-*Updated on 2026-01-29*
+> "The best way to predict the future is to invent it." — Alan Kay  
+*Updated on 2026-01-30*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
