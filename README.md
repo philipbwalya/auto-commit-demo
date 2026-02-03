@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The biggest risk is not taking any risk." — Mark Zuckerberg  
-*Updated on 2026-02-02*
+> "Success is not the key to happiness. Happiness is the key to success." — Albert Schweitzer  
+*Updated on 2026-02-03*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
