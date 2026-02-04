@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "Success is not the key to happiness. Happiness is the key to success." — Albert Schweitzer  
-*Updated on 2026-02-03*
+> "It always seems impossible until it's done." — Nelson Mandela  
+*Updated on 2026-02-04*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
