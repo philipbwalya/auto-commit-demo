@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "Success is not the key to happiness. Happiness is the key to success." — Albert Schweitzer  
-*Updated on 2026-02-05*
+> "The best revenge is massive success." — Frank Sinatra  
+*Updated on 2026-02-06*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
