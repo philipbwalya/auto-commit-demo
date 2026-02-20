@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "I attribute my success to this: I never gave or took any excuse." — Florence Nightingale  
-*Updated on 2026-02-19*
+> "Keep your face always toward the sunshine—and shadows will fall behind you." — Walt Whitman  
+*Updated on 2026-02-20*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
