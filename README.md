@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The future belongs to those who believe in the beauty of their dreams." — Eleanor Roosevelt  
-*Updated on 2026-02-22*
+> "The harder I work, the luckier I get." — Gary Player  
+*Updated on 2026-02-23*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
