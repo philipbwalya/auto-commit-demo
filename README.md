@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The harder I work, the luckier I get." — Gary Player  
-*Updated on 2026-02-23*
+> "Get busy living or get busy dying." — Stephen King  
+*Updated on 2026-02-24*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
