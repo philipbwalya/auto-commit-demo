@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The best revenge is massive success." — Frank Sinatra  
-*Updated on 2026-02-27*
+> "Believe you can and you're halfway there." — Theodore Roosevelt  
+*Updated on 2026-02-28*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
