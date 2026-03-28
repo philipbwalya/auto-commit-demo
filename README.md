@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "You have within you right now, everything you need to deal with whatever the world can throw at you." — Brian Tracy  
-*Updated on 2026-03-27*
+> "Success is not the key to happiness. Happiness is the key to success." — Albert Schweitzer  
+*Updated on 2026-03-28*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
