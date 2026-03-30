@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "You miss 100% of the shots you don’t take." — Wayne Gretzky  
-*Updated on 2026-03-29*
+> "The only limit to our realization of tomorrow is our doubts of today." — Franklin D. Roosevelt  
+*Updated on 2026-03-30*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
