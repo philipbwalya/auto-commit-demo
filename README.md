@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The only place where success comes before work is in the dictionary." — Vidal Sassoon  
-*Updated on 2026-04-03*
+> "I attribute my success to this: I never gave or took any excuse." — Florence Nightingale  
+*Updated on 2026-04-04*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
