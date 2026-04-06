@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The best revenge is massive success." — Frank Sinatra  
-*Updated on 2026-04-05*
+> "The purpose of our lives is to be happy." — Dalai Lama  
+*Updated on 2026-04-06*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
