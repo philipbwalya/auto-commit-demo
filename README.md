@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "Life is 10% what happens to us and 90% how we react to it." — Charles R. Swindoll  
-*Updated on 2026-04-23*
+> "It always seems impossible until it's done." — Nelson Mandela  
+*Updated on 2026-04-24*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
