@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "Success is not final, failure is not fatal: it is the courage to continue that counts." — Winston Churchill  
-*Updated on 2026-05-04*
+> "The best revenge is massive success." — Frank Sinatra  
+*Updated on 2026-05-05*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
