@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The purpose of our lives is to be happy." — Dalai Lama  
-*Updated on 2026-05-09*
+> "Believe you can and you're halfway there." — Theodore Roosevelt  
+*Updated on 2026-05-10*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
