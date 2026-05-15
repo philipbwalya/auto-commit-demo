@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "It always seems impossible until it's done." — Nelson Mandela  
-*Updated on 2026-05-14*
+> "The only place where success comes before work is in the dictionary." — Vidal Sassoon  
+*Updated on 2026-05-15*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
