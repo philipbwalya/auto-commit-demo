@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "Get busy living or get busy dying." — Stephen King  
-*Updated on 2026-05-20*
+> "The best revenge is massive success." — Frank Sinatra  
+*Updated on 2026-05-21*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
