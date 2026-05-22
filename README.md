@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The best revenge is massive success." — Frank Sinatra  
-*Updated on 2026-05-21*
+> "I attribute my success to this: I never gave or took any excuse." — Florence Nightingale  
+*Updated on 2026-05-22*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
