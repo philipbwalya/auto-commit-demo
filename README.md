@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The only way to do great work is to love what you do." — Steve Jobs  
-*Updated on 2026-05-23*
+> "Act as if what you do makes a difference. It does." — William James  
+*Updated on 2026-05-24*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
