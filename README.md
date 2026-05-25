@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "Act as if what you do makes a difference. It does." — William James  
-*Updated on 2026-05-24*
+> "Life is 10% what happens to us and 90% how we react to it." — Charles R. Swindoll  
+*Updated on 2026-05-25*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
