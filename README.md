@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "What lies behind us and what lies before us are tiny matters compared to what lies within us." — Ralph Waldo Emerson  
-*Updated on 2026-05-30*
+> "Do not wait to strike till the iron is hot; but make it hot by striking." — William Butler Yeats  
+*Updated on 2026-05-31*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
