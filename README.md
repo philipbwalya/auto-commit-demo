@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "Do not wait to strike till the iron is hot; but make it hot by striking." — William Butler Yeats  
-*Updated on 2026-05-31*
+> "Success is not the key to happiness. Happiness is the key to success." — Albert Schweitzer  
+*Updated on 2026-06-01*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
