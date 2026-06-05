@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "Life is 10% what happens to us and 90% how we react to it." — Charles R. Swindoll  
-*Updated on 2026-06-04*
+> "Keep your face always toward the sunshine—and shadows will fall behind you." — Walt Whitman  
+*Updated on 2026-06-05*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
