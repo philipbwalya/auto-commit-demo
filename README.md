@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "You miss 100% of the shots you don’t take." — Wayne Gretzky  
-*Updated on 2026-06-06*
+> "To succeed in life, you need two things: ignorance and confidence." — Mark Twain  
+*Updated on 2026-06-07*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
