@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "What you do today can improve all your tomorrows." — Ralph Marston  
-*Updated on 2026-06-11*
+> "Get busy living or get busy dying." — Stephen King  
+*Updated on 2026-06-12*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
