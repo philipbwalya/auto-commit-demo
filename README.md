@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The harder I work, the luckier I get." — Gary Player  
-*Updated on 2026-06-17*
+> "The best revenge is massive success." — Frank Sinatra  
+*Updated on 2026-06-18*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
