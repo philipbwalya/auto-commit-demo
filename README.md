@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "What you do today can improve all your tomorrows." — Ralph Marston  
-*Updated on 2026-06-22*
+> "Your time is limited, so don't waste it living someone else's life." — Steve Jobs  
+*Updated on 2026-06-23*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
