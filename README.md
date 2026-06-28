@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "Life is 10% what happens to us and 90% how we react to it." — Charles R. Swindoll  
-*Updated on 2026-06-27*
+> "The best way to predict the future is to invent it." — Alan Kay  
+*Updated on 2026-06-28*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
