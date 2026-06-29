@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The best way to predict the future is to invent it." — Alan Kay  
-*Updated on 2026-06-28*
+> "The biggest risk is not taking any risk." — Mark Zuckerberg  
+*Updated on 2026-06-29*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
