@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The biggest risk is not taking any risk." — Mark Zuckerberg  
-*Updated on 2026-07-04*
+> "Do not wait to strike till the iron is hot; but make it hot by striking." — William Butler Yeats  
+*Updated on 2026-07-05*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
