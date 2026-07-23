@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The future belongs to those who believe in the beauty of their dreams." — Eleanor Roosevelt  
-*Updated on 2026-07-22*
+> "Success is not the key to happiness. Happiness is the key to success." — Albert Schweitzer  
+*Updated on 2026-07-23*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
