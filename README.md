@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "Act as if what you do makes a difference. It does." — William James  
-*Updated on 2026-07-30*
+> "The secret of success is to do the common thing uncommonly well." — John D. Rockefeller Jr.  
+*Updated on 2026-07-31*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
