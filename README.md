@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "Keep your face always toward the sunshine—and shadows will fall behind you." — Walt Whitman  
-*Updated on 2026-08-04*
+> "Success is not the key to happiness. Happiness is the key to success." — Albert Schweitzer  
+*Updated on 2026-08-05*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
