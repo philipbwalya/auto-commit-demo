@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "What you do today can improve all your tomorrows." — Ralph Marston  
-*Updated on 2026-08-10*
+> "Don’t watch the clock; do what it does. Keep going." — Sam Levenson  
+*Updated on 2026-08-11*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
