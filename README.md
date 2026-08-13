@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "To succeed in life, you need two things: ignorance and confidence." — Mark Twain  
-*Updated on 2026-08-12*
+> "Success is not the key to happiness. Happiness is the key to success." — Albert Schweitzer  
+*Updated on 2026-08-13*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
