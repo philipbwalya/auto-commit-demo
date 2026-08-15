@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The only way to do great work is to love what you do." — Steve Jobs  
-*Updated on 2026-08-14*
+> "Success is not the key to happiness. Happiness is the key to success." — Albert Schweitzer  
+*Updated on 2026-08-15*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
