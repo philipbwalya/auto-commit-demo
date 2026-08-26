@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "You must be the change you wish to see in the world." — Mahatma Gandhi  
-*Updated on 2026-08-25*
+> "The harder I work, the luckier I get." — Gary Player  
+*Updated on 2026-08-26*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
