@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The harder I work, the luckier I get." — Gary Player  
-*Updated on 2026-08-26*
+> "What you do today can improve all your tomorrows." — Ralph Marston  
+*Updated on 2026-08-27*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
