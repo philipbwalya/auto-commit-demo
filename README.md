@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "I attribute my success to this: I never gave or took any excuse." — Florence Nightingale  
-*Updated on 2026-08-30*
+> "The only limit to our realization of tomorrow is our doubts of today." — Franklin D. Roosevelt  
+*Updated on 2026-08-31*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
