@@ -381,3 +381,4 @@
 2026-08-29: "You miss 100% of the shots you don’t take." — Wayne Gretzky
 2026-08-30: "I attribute my success to this: I never gave or took any excuse." — Florence Nightingale
 2026-08-31: "The only limit to our realization of tomorrow is our doubts of today." — Franklin D. Roosevelt
+2026-09-01: "The best way to predict the future is to invent it." — Alan Kay
