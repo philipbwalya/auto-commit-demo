@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "Act as if what you do makes a difference. It does." — William James  
-*Updated on 2026-09-12*
+> "The best revenge is massive success." — Frank Sinatra  
+*Updated on 2026-09-13*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
