@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The biggest risk is not taking any risk." — Mark Zuckerberg  
-*Updated on 2026-09-19*
+> "What lies behind us and what lies before us are tiny matters compared to what lies within us." — Ralph Waldo Emerson  
+*Updated on 2026-09-20*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
