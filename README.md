@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The biggest risk is not taking any risk." — Mark Zuckerberg  
-*Updated on 2026-09-25*
+> "Success is not final, failure is not fatal: it is the courage to continue that counts." — Winston Churchill  
+*Updated on 2026-09-26*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
