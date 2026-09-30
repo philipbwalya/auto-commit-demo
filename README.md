@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The purpose of our lives is to be happy." — Dalai Lama  
-*Updated on 2026-09-29*
+> "You have within you right now, everything you need to deal with whatever the world can throw at you." — Brian Tracy  
+*Updated on 2026-09-30*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
