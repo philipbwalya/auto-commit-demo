@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The harder I work, the luckier I get." — Gary Player  
-*Updated on 2026-10-03*
+> "The biggest risk is not taking any risk." — Mark Zuckerberg  
+*Updated on 2026-10-04*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
