@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The biggest risk is not taking any risk." — Mark Zuckerberg  
-*Updated on 2026-10-04*
+> "I attribute my success to this: I never gave or took any excuse." — Florence Nightingale  
+*Updated on 2026-10-05*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
