@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "I attribute my success to this: I never gave or took any excuse." — Florence Nightingale  
-*Updated on 2026-10-05*
+> "If you can dream it, you can do it." — Walt Disney  
+*Updated on 2026-10-06*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
