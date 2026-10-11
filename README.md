@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "What lies behind us and what lies before us are tiny matters compared to what lies within us." — Ralph Waldo Emerson  
-*Updated on 2026-10-10*
+> "Get busy living or get busy dying." — Stephen King  
+*Updated on 2026-10-11*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
