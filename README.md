@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "Get busy living or get busy dying." — Stephen King  
-*Updated on 2026-10-11*
+> "Believe you can and you're halfway there." — Theodore Roosevelt  
+*Updated on 2026-10-13*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
