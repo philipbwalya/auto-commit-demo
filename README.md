@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The best way to predict the future is to invent it." — Alan Kay  
-*Updated on 2026-10-16*
+> "Keep your face always toward the sunshine—and shadows will fall behind you." — Walt Whitman  
+*Updated on 2026-10-17*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
