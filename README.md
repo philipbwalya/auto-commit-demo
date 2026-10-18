@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "Keep your face always toward the sunshine—and shadows will fall behind you." — Walt Whitman  
-*Updated on 2026-10-17*
+> "The only limit to our realization of tomorrow is our doubts of today." — Franklin D. Roosevelt  
+*Updated on 2026-10-18*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
