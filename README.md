@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The best way to predict the future is to invent it." — Alan Kay  
-*Updated on 2026-10-25*
+> "Do not wait to strike till the iron is hot; but make it hot by striking." — William Butler Yeats  
+*Updated on 2026-10-26*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
