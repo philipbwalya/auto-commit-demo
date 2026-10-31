@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "Don’t watch the clock; do what it does. Keep going." — Sam Levenson  
-*Updated on 2026-10-30*
+> "The purpose of our lives is to be happy." — Dalai Lama  
+*Updated on 2026-10-31*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
