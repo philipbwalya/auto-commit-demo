@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The purpose of our lives is to be happy." — Dalai Lama  
-*Updated on 2026-10-31*
+> "It always seems impossible until it's done." — Nelson Mandela  
+*Updated on 2026-11-01*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
