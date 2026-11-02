@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "It always seems impossible until it's done." — Nelson Mandela  
-*Updated on 2026-11-01*
+> "If you can dream it, you can do it." — Walt Disney  
+*Updated on 2026-11-02*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
