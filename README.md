@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "The best way to predict the future is to invent it." — Alan Kay  
-*Updated on 2026-11-05*
+> "What you do today can improve all your tomorrows." — Ralph Marston  
+*Updated on 2026-11-06*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
