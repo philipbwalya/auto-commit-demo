@@ -1,7 +1,7 @@
 # My Daily Inspiration
 
 **Today's Quote**  
-> "What you do today can improve all your tomorrows." — Ralph Marston  
-*Updated on 2026-11-06*
+> "The only way to do great work is to love what you do." — Steve Jobs  
+*Updated on 2026-11-07*
 
 See past quotes in [quotes-archive.txt](quotes-archive.txt).
